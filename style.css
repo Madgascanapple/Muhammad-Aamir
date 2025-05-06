@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 210, 210);
+}
+
+.main{
+    padding: 5%;
+    margin-top: 20px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    border: 3px solid blue;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+h2{
+    font-family: monospace;
+    color: rgb(56, 56, 56);
+    color: white;
+}
+
+p{
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: white;
+}
